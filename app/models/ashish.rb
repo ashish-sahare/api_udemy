@@ -1,4 +1,4 @@
 class Ashish < ApplicationRecord
   belongs_to :user
+  belongs_to :article
 end
-fsgg
